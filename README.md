@@ -1,7 +1,7 @@
 # Awesome Web PoCs
 [![arXiv](https://img.shields.io/badge/arXiv-<25xxxxx>-<COLOR>.svg)](https://arxiv.org/abs/xxxxx) [![Visit Our Website](https://img.shields.io/badge/Google_Site-_xxxx-blue)](https://sites.google.com/view/xxxxx/home) [![](https://img.shields.io/badge/xxxxx-blue?style=flat-square)](https://2025.xxxx.org/)
 
-A curated, verified, and reproducible PoCs list for 1-day web vulnerabilities (CVEs)
+A curated, verified, and reproducible PoCs list for web vulnerabilities (CVEs)
 
 
 
